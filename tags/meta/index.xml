@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on Fat Cat Chat Blog</title>
-    <link>https://douglasamcintosh.github.io/Published/fatcatchat/tags/meta/</link>
+    <link>https://stanleyfelinefine.github.io/tags/meta/</link>
     <description>Recent content in Meta on Fat Cat Chat Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://douglasamcintosh.github.io/Published/fatcatchat/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stanleyfelinefine.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Fat Cat Chat</title>
-      <link>https://douglasamcintosh.github.io/Published/fatcatchat/about/</link>
+      <link>https://stanleyfelinefine.github.io/about/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://douglasamcintosh.github.io/Published/fatcatchat/about/</guid>
+      <guid>https://stanleyfelinefine.github.io/about/</guid>
       <description>An LSM Tree overview and Java implementation.</description>
     </item>
   </channel>

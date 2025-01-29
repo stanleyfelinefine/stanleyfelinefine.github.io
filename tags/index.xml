@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fat Cat Chat Blog</title>
-    <link>https://douglasamcintosh.github.io/Published/fatcatchat/tags/</link>
+    <link>https://stanleyfelinefine.github.io/tags/</link>
     <description>Recent content in Tags on Fat Cat Chat Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://douglasamcintosh.github.io/Published/fatcatchat/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stanleyfelinefine.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://douglasamcintosh.github.io/Published/fatcatchat/tags/about/</link>
+      <link>https://stanleyfelinefine.github.io/tags/about/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://douglasamcintosh.github.io/Published/fatcatchat/tags/about/</guid>
+      <guid>https://stanleyfelinefine.github.io/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Database</title>
-      <link>https://douglasamcintosh.github.io/Published/fatcatchat/tags/database/</link>
+      <link>https://stanleyfelinefine.github.io/tags/database/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://douglasamcintosh.github.io/Published/fatcatchat/tags/database/</guid>
+      <guid>https://stanleyfelinefine.github.io/tags/database/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://douglasamcintosh.github.io/Published/fatcatchat/tags/java/</link>
+      <link>https://stanleyfelinefine.github.io/tags/java/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://douglasamcintosh.github.io/Published/fatcatchat/tags/java/</guid>
+      <guid>https://stanleyfelinefine.github.io/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Meta</title>
-      <link>https://douglasamcintosh.github.io/Published/fatcatchat/tags/meta/</link>
+      <link>https://stanleyfelinefine.github.io/tags/meta/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://douglasamcintosh.github.io/Published/fatcatchat/tags/meta/</guid>
+      <guid>https://stanleyfelinefine.github.io/tags/meta/</guid>
       <description></description>
     </item>
   </channel>
